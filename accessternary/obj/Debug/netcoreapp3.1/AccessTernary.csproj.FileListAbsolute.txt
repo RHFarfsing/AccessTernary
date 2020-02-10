@@ -1,0 +1,14 @@
+C:\repos\AccessTernary\AccessTernary\bin\Debug\netcoreapp3.1\AccessTernary.exe
+C:\repos\AccessTernary\AccessTernary\bin\Debug\netcoreapp3.1\AccessTernary.deps.json
+C:\repos\AccessTernary\AccessTernary\bin\Debug\netcoreapp3.1\AccessTernary.runtimeconfig.json
+C:\repos\AccessTernary\AccessTernary\bin\Debug\netcoreapp3.1\AccessTernary.runtimeconfig.dev.json
+C:\repos\AccessTernary\AccessTernary\bin\Debug\netcoreapp3.1\AccessTernary.dll
+C:\repos\AccessTernary\AccessTernary\bin\Debug\netcoreapp3.1\AccessTernary.pdb
+C:\repos\AccessTernary\AccessTernary\obj\Debug\netcoreapp3.1\AccessTernary.csprojAssemblyReference.cache
+C:\repos\AccessTernary\AccessTernary\obj\Debug\netcoreapp3.1\AccessTernary.AssemblyInfoInputs.cache
+C:\repos\AccessTernary\AccessTernary\obj\Debug\netcoreapp3.1\AccessTernary.AssemblyInfo.cs
+C:\repos\AccessTernary\AccessTernary\obj\Debug\netcoreapp3.1\AccessTernary.dll
+C:\repos\AccessTernary\AccessTernary\obj\Debug\netcoreapp3.1\AccessTernary.pdb
+C:\repos\AccessTernary\AccessTernary\bin\Debug\netcoreapp3.1\SalesLibrary.dll
+C:\repos\AccessTernary\AccessTernary\bin\Debug\netcoreapp3.1\SalesLibrary.pdb
+C:\repos\AccessTernary\AccessTernary\obj\Debug\netcoreapp3.1\AccessTernary.csproj.CopyComplete
