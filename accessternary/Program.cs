@@ -6,6 +6,7 @@ namespace AccessTernary {
             //Console.WriteLine($"The Cube of 17 is {Program.cubed(17)}");
             Console.WriteLine(Customer.PrintNextId());
             var cust1 = new Customer("Max Technical Training");
+            Console.WriteLine(cust1);
             var cust2 = new Customer("Amazon");
             var cust3 = new Customer("Target");
             var cust4 = new Customer("Microsoft");

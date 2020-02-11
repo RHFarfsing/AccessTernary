@@ -4,6 +4,9 @@ using System.Text;
 
 namespace AccessTernary {
     public class Customer {
+        public override string ToString() {
+            return $"Id={this.Id},Name={this.Name},NAcct={this.IsNationalAccount}";
+        }
         private static int NextId = 1;
         public int Id { get; private set; }
         public string Name { get; set; }
