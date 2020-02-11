@@ -8,6 +8,10 @@ namespace AccessTernary {
         public int Id { get; private set; }
         public string Name { get; set; }
         private bool IsNationalAccount { get; set; }
+        static Customer() {
+            // read file to get the next id to be assigned
+            NextId = 21;
+        }
         public void NationalAccount(string YesOrNo) {
             this.IsNationalAccount = YesOrNo.Equals("yes") ? true : false;
         }
